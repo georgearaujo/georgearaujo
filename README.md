@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/george-souza/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=georgearaujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgearaujo&layout=compact&langs_count=5&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=georgearaujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgearaujo&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,8 +17,6 @@
   <img align="center" alt="George-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="George-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="George-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 ##
