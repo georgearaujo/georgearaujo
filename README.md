@@ -3,7 +3,7 @@
 <div>
   <a href="https://www.linkedin.com/in/george-souza/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=georgearaujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=7720bd&bg_color=0c0214&text_color=dfc4f5"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgearaujo&langs_count=5&title_color=7720bd&bg_color=0c0214&text_color=dfc4f5"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgearaujo&layout=compact&langs_count=5&title_color=7720bd&bg_color=0c0214&text_color=dfc4f5"/>
 </div>
   
 <div style="display: inline_block"><br>
