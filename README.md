@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/george-souza/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgearaujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgearaujo&layout=compact&langs_count=5&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=georgearaujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgearaujo&layout=compact&langs_count=5&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,6 +19,7 @@
   <img align="center" alt="George-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
-<div>
-  ![Snake animation](https://github.com/georgearaujo/georgearaujo/blob/output/github-contribution-grid-snake.svg)
-</div>
+##
+
+![Snake animation](https://github.com/georgearaujo/georgearaujo/blob/output/github-contribution-grid-snake.svg)
+
